@@ -1,0 +1,2 @@
+# Data-Analytics-and-Power-BI-Dashboard-Insights-with-Data-Cleaning-KPIs-and-DAX-Queries
+This project demonstrates a complete data analytics workflow applied to real-world hospitality sector data. The goal was to convert raw data into actionable insights through data cleaning, key performance indicators (KPIs), and an interactive Power BI dashboard, supporting data-driven decision-making in the industry.
